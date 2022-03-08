@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="test_atharva" max_length="40" name="x_681237_serviceno_test_atharva" type="collection">
+        <element label="age" max_length="40" name="age" type="integer"/>
+        <element label="name" max_length="30" name="name" type="string"/>
+    </element>
+</database>
